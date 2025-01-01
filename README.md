@@ -5,6 +5,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/marcodearaujo/.profile/refs/heads/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/marcoaraujojunior/.profile/refs/heads/output/snake.svg" alt="Snake animation" />
 
 ###
